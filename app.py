@@ -11,7 +11,7 @@ from tools import TOOL_REGISTRY, available_tools_snapshot
 
 st.set_page_config(
     page_title="AI Agent With Tools",
-    page_icon=":material/smart_toy:",
+    page_icon="AI",,
     layout="wide",
     initial_sidebar_state="expanded",
 )
